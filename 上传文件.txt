@@ -1,0 +1,13 @@
+精通CSS页面布局，重构,掌握JavaScript，熟悉w3c标准，了解HTML语义化有一定的了解。
+熟练运用浏览器兼容技术，熟练进行前端性能优化设计。
+熟练使用HTML5新特性canvas，LocalStorage，Sessionstorage，video，audio等开发项目以及基于HTML5的微信场景开
+发。
+熟悉掌握基于HTML5的webApp开发以及各种手机移动端适配，熟悉ECMA标准，熟练掌握DOM、BOM操作，熟悉闭包原
+理，熟悉面向对象JS编程，理解原型链的继承机制。
+熟练AJAX/JSON,熟悉正则表达式、JS面向对象，JSONP跨域请求。
+熟练使用Element UI、Mint UI、Vant UI等主流UI框架；
+熟悉使用react、vue.js、小程序、等流行框架。
+掌握Css类库Sass技术、Less技术、Gulp构建化工具，了解node.js,react.js,angular.js以及MVC&MVVM设计模式与模块化
+开发流程。
+熟练使用HBuilder，nodepad++，Sublime，Photoshop，Dreamwaver，Fireworks等相关开发工具，熟悉Git版本管
+理，熟练webpack，babel等编译工具。
